@@ -15,7 +15,6 @@ public class AppApplication {
         System.out.println("可以看见了");
         System.out.println("真的看不见嘛");
         System.out.println("看到了就好");
-        System.out.println("不应该被覆盖");
     }
 
 }
