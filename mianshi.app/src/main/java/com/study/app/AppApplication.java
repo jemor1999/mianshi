@@ -16,6 +16,7 @@ public class AppApplication {
         System.out.println("真的看不见嘛");
         System.out.println("看到了就好");
         System.out.println("不能被覆盖");
+        System.out.println("OK、今天先到这、准备吃饭");
     }
 
 }
