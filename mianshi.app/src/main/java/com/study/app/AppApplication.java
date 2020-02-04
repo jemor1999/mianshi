@@ -11,6 +11,7 @@ public class AppApplication {
         System.out.println("--------------加载完成----------------");
         System.out.println("--------------你看到了吗？----------------");
         System.out.println("--------------你又看到了吗？----------------");
+        System.out.println("--------------你真的不能看到了吗？----------------");
     }
 
 }
