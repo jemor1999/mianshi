@@ -14,6 +14,7 @@ public class AppApplication {
         System.out.println("--------------你真的不能看到了吗？----------------");
         System.out.println("可以看见了");
         System.out.println("真的看不见嘛");
+        System.out.println("真的看不见嘛");
     }
 
 }
