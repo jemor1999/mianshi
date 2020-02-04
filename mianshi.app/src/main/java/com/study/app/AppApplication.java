@@ -10,6 +10,7 @@ public class AppApplication {
         SpringApplication.run(AppApplication.class, args);
         System.out.println("--------------加载完成----------------");
         System.out.println("--------------你看到了吗？----------------");
+        System.out.println("--------------你又看到了吗？----------------");
     }
 
 }
