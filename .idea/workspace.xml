@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6c312f6-869a-4e5f-be4e-023cc67f799c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/mianshi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mianshi.app/src/main/java/com/study/app/AppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/mianshi.app/src/main/java/com/study/app/AppApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mianshi/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mianshi/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mianshi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mianshi/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b6c312f6-869a-4e5f-be4e-023cc67f799c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mianshi.app/src/main/java/com/study/app/AppApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,6 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,30 +74,10 @@
               <item name="mianshi" type="b2602c69:ProjectViewProjectNode" />
               <item name="mianshi" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mianshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
-              <item name="mianshi.app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mianshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
-              <item name="mianshi.app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mianshi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mianshi" type="462c0819:PsiDirectoryNode" />
-              <item name="mianshi.app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,23 +121,23 @@
       <updated>1580802812305</updated>
       <workItem from="1580802813493" duration="2901000" />
       <workItem from="1580807135053" duration="248000" />
+      <workItem from="1580886124176" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3149000" />
+    <option name="totallyTimeSpent" value="3167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -176,6 +150,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -226,8 +201,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mianshi.app/src/main/java/com/study/app/AppApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
